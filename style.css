@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: blue
+}
+
+button {
+    text-align: center;
+    width: 100px;
+}
+
+.playground {
+    border: 3px solid red;
+    width: 500px;
+    margin: auto;
+}
